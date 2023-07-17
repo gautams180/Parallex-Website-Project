@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .wrapper{
     height: 100vh;
     overflow-x: hidden;
@@ -47,6 +48,7 @@ h1{
     letter-spacing: 40x;
     color: white;
     text-shadow: 0 0 10px rgba(0,0,0,0.3);
+    font-family: 'Lumanosimo', cursive;
 }
 
 section{
